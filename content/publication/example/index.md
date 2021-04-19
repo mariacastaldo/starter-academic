@@ -41,7 +41,7 @@ tags:
 - Youtube
 
 
-featured: false
+featured: ture
 
 # links:
 # - name: ""
