@@ -72,4 +72,4 @@ Maria Castaldo is a researcher in Computation Social Science and Complex Systems
 
 She co-teaches the course of Réseaux Sociaux Appliqués at Sorbonne University. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_latex.pdf" "newtab" >}}resumé{{< /staticref >}}.
