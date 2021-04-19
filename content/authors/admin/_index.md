@@ -68,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maria Castaldo is a researcher in Computation Social Science and Complex Systems at the Centre National de la Recherche Scientifique (CNRS). Her research interests include network and opinion dynamics, social networks, manipulation of online information and social bots. She is part of the Center of Internet and Society in Paris and of the Gipsa-lab in Grenoble.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She co-teaches the course of Réseaux Sociaux Appliqués at Sorbonne University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
