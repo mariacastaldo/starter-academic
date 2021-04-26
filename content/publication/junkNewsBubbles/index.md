@@ -27,7 +27,7 @@ publication_types: ["2"]
 publication: In *New Media & Society*
 publication_short: In *NM&S*
 
-abstract: In this article, we present a type of media disorder which we call ‘junk news bubbles’ and which derives from the effort invested by online platforms and their users to identify and circulate contents with rising popularity. Such emphasis on trending matters, we claim, can have two detrimental effects on public debates: first, it shortens the amount of time available to discuss each matter and second, it increases the ephemeral concentration of media attention. We provide a formal description of the dynamic of junk news bubbles, through a mathematical exploration of the famous ‘public arenas model’ developed by Hilgartner and Bosk in 1988. Our objective is to describe the dynamics of the junk news bubbles as precisely as possible to facilitate its further investigation with empirical data.
+abstract: "In this article, we present a type of media disorder which we call ‘junk news bubbles’ and which derives from the effort invested by online platforms and their users to identify and circulate contents with rising popularity. Such emphasis on trending matters, we claim, can have two detrimental effects on public debates: first, it shortens the amount of time available to discuss each matter and second, it increases the ephemeral concentration of media attention. We provide a formal description of the dynamic of junk news bubbles, through a mathematical exploration of the famous ‘public arenas model’ developed by Hilgartner and Bosk in 1988. Our objective is to describe the dynamics of the junk news bubbles as precisely as possible to facilitate its further investigation with empirical data."
 
 
 # Summary. An optional shortened abstract.
