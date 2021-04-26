@@ -13,7 +13,7 @@ authors:
 
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.ifacol.2020.12.954"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://reader.elsevier.com/reader/sd/pii/S2405896320313100?token=7F897AAC7171ED2DBC531AEE9B18EEA841B0AE10BC353E56E1657AE6D3587FF279EC0A96AA7D2EC6ABA37B3418552289&originRegion=eu-west-1&originCreation=20210426130803'
 url_code: ''
 url_dataset: ''
 url_poster: ''
