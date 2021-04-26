@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-021-00262-1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
