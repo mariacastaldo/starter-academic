@@ -27,12 +27,13 @@ publication_types: ["2"]
 publication: In *EPJ Data Science*
 publication_short: In *EPJ Data Science*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The lockdown orders established in multiple countries in response to the Covid-19 pandemic are arguably one of the most widespread and deepest shock
+experienced by societies in recent years. Studying their impact trough the lens of social media offers an unprecedented opportunity to understand the susceptibility and the resilience of human activity patterns to large-scale exogenous shocks. Firstly, we investigate the changes that this upheaval has caused in online activity in terms of time spent online, themes and emotion shared on the platforms, and rhythms of content consumption. Secondly, we examine the resilience of certain platform characteristics, such as the daily rhythms of emotion expression
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: ["Online Attention", "Covid-19", "Circadian Rhythms", "YouTube", "Twitter" ]
 
 # Display this page in the Featured widget?
 featured: true
