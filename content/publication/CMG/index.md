@@ -12,7 +12,7 @@ authors:
 
 
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ifacol.2020.12.954"
 
 # Schedule page publish date (NOT publication's date).
@@ -25,8 +25,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IFAC World Congress 2020*
+publication_short: In *IFAC World Congress 2020*
 
 abstract: "The Bonacich centrality is a well-known measure of the relative importance of nodes in a network. This notion is, for example, at the core of Google’s Page Rank algorithm. In this paper we study a network formation game where each player corresponds to a node in the network to be formed. The action of a player consists in the assignment of m out-links and his utility is his own Bonacich centrality. We study the Nash equilibria (NE) and the best response dynamics of this game. In particular, we provide a complete classification of the set of NE when m = 1 and a fairly complete classification of the NE when m = 2. Our analysis shows that the centrality maximization performed by each node tends to create undirected and disconnected or loosely connected networks, namely 2-cliques for m = 1 and rings or a special “Butterfly”-shaped graph when m = 2. Our results build on locality property of the best response function in such game that we formalize and prove in the paper."
 
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -76,12 +76,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
