@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Concentration of attention and speed of consumption in YouTube channels'
+  caption: 'Regimes of attention change according to the importace of trendiness in platforms'
   focal_point: ""
   preview_only: false
 
