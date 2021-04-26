@@ -25,7 +25,7 @@ experience:
   - title: Ph.D. Student in Applied Mathematics
     company: CNRS
     company_url: 'http://www.cnrs.fr/'
-    company_logo: org-x
+    company_logo: logoCNRS
     location: Paris, France
     date_start: '2019-01-11'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Traineeship in the Directorate General Statistics
     company: European Central Bank
     company_url: 'https://www.ecb.europa.eu/home/html/index.en.html'
-    company_logo: ''
+    company_logo: 'logoECB'
     location: Frankfurt, Germany
     date_start: '2019-03-01'
     date_end: '2019-06-01'
