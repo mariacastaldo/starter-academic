@@ -32,6 +32,7 @@ feature:
   icon: robot
   icon_pack: fas
   name: Bot Programming
+  
 
 
 # Uncomment to use emoji icons.
@@ -43,8 +44,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
+- icon: "logoMatlab"
+  icon_pack: "custom"
+  name: "Matlab"
 #  description: "90%"
 ---
