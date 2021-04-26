@@ -35,7 +35,7 @@ we investigate the changes that this upheaval has caused in online activity in t
 time spent online, themes and emotion shared on the platforms, and rhythms of
 content consumption. Secondly, we examine the resilience of certain platform
 characteristics, such as the daily rhythms of emotion expression.
-Data Two independent datasets about the French cyberspace: a fine-grained
+Data Two independent datasets about the French cyberspace. a fine-grained
 temporal record of almost 100 thousand YouTube videos and a collection of 8 million
 Tweets between February 17 and April 14, 2020.
 Findings In both datasets we observe a reshaping of the circadian rhythms with an
