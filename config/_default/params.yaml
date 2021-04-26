@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: maria.castaldo@grenoble-inp.fr
-phone: 888 888 88 88
 address:
   street: 11 Rue des Mathématiques
   city: Saint-Martin-d'Hères
@@ -32,9 +31,7 @@ address:
 coordinates:
   latitude: '45.193297'
   longitude: '5.766475'
-directions: Enter Site Ampere and take the stairs to Office 308 on Floor 2
 
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
