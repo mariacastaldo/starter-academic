@@ -1,16 +1,10 @@
 ---
-title: 
+title: The Rhythms of the Night: increase in online night activity andemotional resilience during the Covid-19 lockdown
 
 event: Conference on Complex Systems
 event_url: http://ccs2020.web.auth.gr/
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Online
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "*Context*: The lockdown orders established in multiple countries in response to the Covid-19 pandemics are perhaps the widest and deep- est shock experienced by human behaviors in recent years. Studying the impact of the lockdown, trough the lens of social media, offers an unprece- dented opportunity for analyzing the susceptibility and the resilience of circadian rhythms to large-scale exogenous shocks. In this context, we address two interconnected research questions: Can variations of online activity cycles provide information on the impact of lockdown on human activities? How do online circadian rhythms react to such a disruption?\n\n *Data*: We base our research on the analysis and comparison of two independent databases about the French cyberspace: a fine-grained temporal record of YouTube videos and a large collection of Tweets on Covid- 19. \n \n *Findings*: In both datasets we observe a reshaping of the circadian rhythms with a substantial increase of night activity during the lockdown. The analysis of the videos and tweets published during lockdown shows a general decrease in emotional contents and a shift from themes like work and money to themes like death and safety. However, the daily patterns of emotions remain mostly unchanged, thereby suggesting that emotional cycles are resilient to exogenous shocks."
