@@ -33,7 +33,7 @@ experienced by societies in recent years. Studying their impact trough the lens 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ["Online Attention", "Covid-19", "Circadian Rhythms", "YouTube", "Twitter" ]
+#tags: ["Online Attention", "Covid-19", "Circadian Rhythms", "YouTube", "Twitter" ]
 
 # Display this page in the Featured widget?
 featured: true
