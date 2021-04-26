@@ -42,7 +42,7 @@ experience:
         Responsibilities include:
         
         * Development of optimization tools for financial accounting.
-        * Editing of the External Statistics and Sector Accounts quaterly report.
+        * Editing External Statistics and Sector Accounts quaterly reports.
         
   
 
