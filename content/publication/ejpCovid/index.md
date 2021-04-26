@@ -27,7 +27,8 @@ publication_types: ["2"]
 publication: In *EPJ Data Science*
 publication_short: In *EPJ Data Science*
 
-abstract: kjonnoijoijoi
+abstract: The lockdown orders established in multiple countries in response to the Covid-19 pandemic are arguably one of the most widespread and deepest shock
+experienced by societies in recent years.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
