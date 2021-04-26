@@ -27,8 +27,7 @@ publication_types: ["2"]
 publication: In *EPJ Data Science*
 publication_short: In *EPJ Data Science*
 
-abstract: The lockdown orders established in multiple countries in response to the Covid-19 pandemic are arguably one of the most widespread and deepest shock
-experienced by societies in recent years. Studying their impact trough the lens of social media offers an unprecedented opportunity to understand the susceptibility and the resilience of human activity patterns to large-scale exogenous shocks. Firstly, we investigate the changes that this upheaval has caused in online activity in terms of time spent online, themes and emotion shared on the platforms, and rhythms of content consumption. Secondly, we examine the resilience of certain platform characteristics, such as the daily rhythms of emotion expression
+abstract: kjonnoijoijoi
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
