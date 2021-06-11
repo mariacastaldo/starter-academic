@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Digital Methods Winter School and Data Sprint 2021
+subtitle: Streams of Conspiratorial Folklore
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -43,11 +43,12 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+According to Simon's prophecy (“a wealth of information creates a poverty of attention”, 1971), the Web has turned from a repository of hypertexts into a market for collective attention. With the rise of online platforms, interfaces and algorithms have been optimized to amplify the riptides of collective attention, and monetize them through the turbines of online advertising.
+This new attention regime departs from the one introduced by literacy (Goody & Watt, 1963) and printing (Eisenstein, 1980) and based on a separation between the content and the context of communication (or between information and interaction). Online platforms intensify a tendency inaugurated by radio and television to create forms of secondary orality (Ong, 1982). In this second orality, communication is performed as a flow, with no past (because previous interactions are inaccessible or irrelevant) and no future (because it disappears as soon as it is interrupted). In the words of Walter Ong, "not simply perishable but essentially evanescent, and... sensed as evanescent. When I pronounce the word ‘permanence’, by the time I get to the ‘-pence’, the ‘perma-’ is gone” (1982, p. 31, 32)".
+This flowing attention is characteristic of online communication in general, but it is particularly manifest in the folklore of conspiracist, far-right groups, whose flag-bearers like QAnon have recently grown to a stunning popularity (arguably because of their perfect adaptation to online attention regime). The term "folklore" is here used not to belittle this cultural phenomenon, but (quite the opposite) to point at the way in which it is misunderstood when considered from the viewpoint of literary and scholarly culture. 
+These conspiratorial cultures thrive through an interplay between actual sleuthing and constant repetition of "conspiracies without theory" (Muirhead & Rosenblum, 2019). They emerge in platforms with little or no infrastructural memory (eg. 4chan or Twitch); are molded by the creativity of subcultures defined by virality and trolling (e.g. Kekistan, Shitposting); and spread by actors with a knack for surfing collective attention (e.g. Donald Trump and his cultic fanbase).
+To inquire into online conspiratorial folklore, we propose to study the sites where its flowing nature is the most manifest: the video streaming services provided by platforms such as Twitch, Youtube live or Periscope. These sites are interesting to us for two reasons. First because they are communication streams in the most literal sense. Second, because in many of their performances, hosts present their practice of online surfing: on Twitch in particular, we watch someone watching the Web.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 ## Get Started
 
