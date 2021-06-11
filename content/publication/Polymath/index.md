@@ -29,6 +29,7 @@ publication_short: ArXiv Preprint
 abstract: "In this work we dig into the process of scientific discovery by looking at a yet unexploited source of information: Polymath projects. Polymath projects are an original attempt to collectively solve mathematical problems in an online collaborative environment. To investigate the Polymath experiment, we analyze all the posts related to the projects that arrived to a peer reviewed publication with a particular attention to the organization of labor and the innovations originating from the author contributions. We observe that a significant presence of sporadic contributor boosts the productivity of the most active users and that productivity, in terms of number of posts, grows super-linearly with the number of contributors. When it comes to innovation in large scale collaborations, there is no exact rule determining, a priori, who the main innovators will be. Sometimes, serendipitous interactions by sporadic contributors can have a large impact on the discovery process and a single post by an occasional participant can steer the work into a new direction."
 
 # Summary. An optional shortened abstract.
+summary: ' '
 
 tags: ["Collective Intelligence", "Collaborative Science", "Innovation", "Discovery"]
 
