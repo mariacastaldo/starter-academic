@@ -8,7 +8,7 @@ event_url: https://www.meiwenjun.site/2020cdc-workshop-socialnetworks
 location: Jeju Island, Republic of Korea
 
 
-summary: "Online attention dynamics: Sociological modeling and YouTube case study"
+summary: "Online attention dynamics: Sociological modeling and YouTube case study."
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
