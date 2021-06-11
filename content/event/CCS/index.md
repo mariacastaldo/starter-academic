@@ -7,7 +7,7 @@ event_url: http://ccs2020.web.auth.gr/
 location: Online
 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Presentatio of the work "The rhythms of the night: increase in online night activity and emotional resilience during the spring 2020 Covid-19 lockdown".
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
