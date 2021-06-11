@@ -32,7 +32,7 @@ abstract: "The Bonacich centrality is a well-known measure of the relative impor
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: ["Centrality", "Network Formation", "Bonacich centrality", "PageRank", "Game Theory"]
 
