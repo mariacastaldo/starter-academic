@@ -1,7 +1,7 @@
 ---
 title: "Workshop on Dynamics in Social and Economic Networks. 59th IEEE Conference on Decision and Control"
 
-event:"Workshop on Dynamics in Social and Economic Networks. 59th IEEE Conference on Decision and Control"
+event: "Workshop on Dynamics in Social and Economic Networks. 59th IEEE Conference on Decision and Control"
 
 event_url: https://www.meiwenjun.site/2020cdc-workshop-socialnetworks
 
