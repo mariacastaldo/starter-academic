@@ -31,6 +31,7 @@ abstract: "In this article, we present a type of media disorder which we call â€
 
 
 # Summary. An optional shortened abstract.
+summary: ''
 
 
 tags: ["Attention Dynamics", "Attention Cycle", "Fake News", "Social Media"]
