@@ -31,7 +31,7 @@ abstract: "In this article, we present a type of media disorder which we call â€
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags: ["Attention Dynamics", "Attention Cycle", "Fake News", "Social Media"]
 
