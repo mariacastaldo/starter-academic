@@ -7,7 +7,7 @@ event_url: https://iutdijon.u-bourgogne.fr/ccs-france/
 location: Dijon, France
 
 
-summary: Presentatio of the work "A collaborative path to scientific discovery: Distribution of labor, productivity and innovation in collaborative science".
+summary: "Presentation of the work 'A collaborative path to scientific discovery: Distribution of labor, productivity and innovation in collaborative science'."
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
